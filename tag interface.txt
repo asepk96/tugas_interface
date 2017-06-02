@@ -1,0 +1,4 @@
+taggted interface
+.tagging interface adalah interface yang tak memiliki methode abstrack didalamnya
+.interface ini digunakan untuk menambahkan tipe data class  yang mengimplementasikannya
+.interface ini adalah induk dari interface lain (terutama multipel interface pada interface)
